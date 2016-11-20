@@ -1,0 +1,1 @@
+export var CREATE_COURSE = 'CREATE_COURSE';
